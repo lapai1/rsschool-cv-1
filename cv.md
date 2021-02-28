@@ -1,4 +1,4 @@
-**About me:** Oleg Sergeev\
+**About me:** My name is Oleg Sergeev\
  I have an experience with C# and back-end in general. I want to learn JS and the front-end in general in order to be able to make up a site myself, which will be pleasing to the eye.
 
 **Skills:**
